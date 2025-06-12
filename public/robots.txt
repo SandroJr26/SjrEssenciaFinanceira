@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://essencia-financeira.com/sitemap.xml
+
+# Disallow admin areas (if any in the future)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow all search engines to crawl the site
+# This site focuses on financial education and consultation services
+
